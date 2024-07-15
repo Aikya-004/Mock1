@@ -1,0 +1,7 @@
+{
+  "name": "TabletLabelScanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

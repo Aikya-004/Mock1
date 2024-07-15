@@ -1,0 +1,10 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "TabletLabelScanner",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
